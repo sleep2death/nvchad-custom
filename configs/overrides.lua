@@ -35,7 +35,7 @@ M.mason = {
     "typescript-language-server",
     "svelte-language-server",
     "deno",
-    "prettier",
+    "prettierd",
 
     "gopls",
     "pyright",
